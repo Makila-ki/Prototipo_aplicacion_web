@@ -1,0 +1,45 @@
+.navegacion{
+    margin-top: 20px;
+    background-color: rgba(0, 110, 255, 0.5) !important;
+    box-shadow: 10px 10px 10px rgba( 0, 0, 0, .2);
+    color:black;
+}
+.navegacion li:hover{
+    background-color: rgba(231, 18, 196, 0.842) !important;
+}
+.navegacion li ul{
+    background-color: rgba(0, 110, 255, 0.8) !important;
+}
+.navegacion li ul li a:hover{
+    background-color: rgba(231, 18, 196, 0.842) !important;
+}
+.carrusel{
+    border-radius: 20px;
+}
+.imgcarrusel{
+    border-radius: 20px;
+}
+.acordeon{
+    border-radius: 50px;
+}
+.pie{
+    margin-top: 20px;
+    background-color: rgba(0, 110, 255, .5) !important;
+    border-radius: 10px;
+    box-shadow: -10px -10px 10px rgba( 0, 0, 0, .2);
+    color:black;
+}
+.alerta0{
+    margin-top: 20px;
+    background-color: rgba(0, 110, 255, 0.5) !important;
+    box-shadow: 10px 10px 10px rgba( 0, 0, 0, .2);
+    color:black;
+
+}
+.carrito{
+    background:black !important;
+    color:white !important;
+}
+.paquito{
+    color:black !important;
+}
